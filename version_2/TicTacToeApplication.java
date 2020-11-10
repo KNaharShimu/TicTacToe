@@ -2,7 +2,7 @@
  * Contains the main method. Creates a ConsoleRunner and then calls its
  * mainLoop method.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author Kamrun Nahar Shimu
  */
 
 public class TicTacToeApplication {
